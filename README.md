@@ -1,11 +1,11 @@
-## Azure CLI Infrastructure Deployment
+# Azure CLI Infrastructure Deployment
 
-# Overview:
+## Overview:
 
 This project demonstrates the deployment of core Azure infrastructure using Azure CLI. The environment includes a Resource Group, Virtual Network, Network Security Group (NSG), Virtual Machine, Storage Account, and Load Balancer.
 
 
-# Services Deployed:
+## Services Deployed:
 
 - Resource Group
 - Virtual Network (VNet)
@@ -16,7 +16,7 @@ This project demonstrates the deployment of core Azure infrastructure using Azur
 - Load Balancer
 
 
-# Technologies Used:
+## Technologies Used:
 
 - Azure CLI
 - Microsoft Azure
