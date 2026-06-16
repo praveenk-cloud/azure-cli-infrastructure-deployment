@@ -4,6 +4,9 @@
 
 This project demonstrates the deployment of core Azure infrastructure using Azure CLI. The environment includes a Resource Group, Virtual Network, Network Security Group (NSG), Virtual Machine, Storage Account, and Load Balancer.
 
+## Architecture
+
+![Architecture](Architecture/architecture.png)
 
 ## Services Deployed:
 
